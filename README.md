@@ -4,7 +4,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# Kurulumlar
+# Kütüphane Kurulumları
 
 
   - Teker Teker Kütüphane Kurulumu
