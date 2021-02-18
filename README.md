@@ -7,7 +7,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 # Kurulumlar
 
 
-  # Teker Teker Kütüphane Kurulumu
+  - Teker Teker Kütüphane Kurulumu
   
   PyQt5, PyDub, PyTube kütüphanelerinin kurulması gereklidir.
 
@@ -19,7 +19,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   
-  # Toplu Kütüphane Kurulumu
+  - Toplu Kütüphane Kurulumu
   
   `pip install -r requirements.txt`
 
@@ -28,7 +28,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 # FFMPEG Kurulumu
 
 
-  # Windows İçin
+  - Windows İçin
    
    https://ffmpeg.org/download.html
     
@@ -40,7 +40,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-  # Linux İçin
+  - Linux İçin
    
    Ubuntu
    
