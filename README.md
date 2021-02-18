@@ -50,3 +50,13 @@ PyQt5, PyDub, PyTube kütüphanelerinin kurulması gereklidir.
 Terminal üzerinde 
   `python youtube_downloader.py`
 komutunun çalıştırılması ile uygulama da çalışacaktır.
+
+![1](https://user-images.githubusercontent.com/79262923/108367005-0a1f6080-720a-11eb-8858-1de09a585d82.png)
+
+![2](https://user-images.githubusercontent.com/79262923/108367020-0e4b7e00-720a-11eb-9480-52747de05dec.png)
+
+![3](https://user-images.githubusercontent.com/79262923/108367031-11466e80-720a-11eb-8e80-1f134299a25f.png)
+
+![4](https://user-images.githubusercontent.com/79262923/108367039-12779b80-720a-11eb-983f-05ffce9eb1dc.png)
+
+![5](https://user-images.githubusercontent.com/79262923/108367042-13a8c880-720a-11eb-9564-e7830c6aec7a.png)
