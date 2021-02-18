@@ -48,7 +48,7 @@ PyDub Kurulumu - `pip install pydub ffmpeg`
     
 # Kullanım
 
-Terminal üzerinde 
+Uygulamanın bulunduğu klasörde açılan terminal üzerinde 
   `python youtube_downloader.py`
 komutunun çalıştırılması ile uygulama da çalışacaktır.
 
