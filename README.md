@@ -3,13 +3,19 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 
 # Kurulumlar
 
-PyQt5, PyDub, PyTube kütüphanelerinin kurulması gereklidir.
+  # Teker Teker Kurulum
+  
+  PyQt5, PyDub, PyTube kütüphanelerinin kurulması gereklidir.
 
-PyQt5 Kurulumu - `pip install pyqt5`
+  PyQt5 Kurulumu - `pip install pyqt5`
 
-PyTube Kurulumu - `pip install pytube`
+  PyTube Kurulumu - `pip install pytube`
 
-PyDub Kurulumu - `pip install pydub ffmpeg`
+  PyDub Kurulumu - `pip install pydub ffmpeg`
+  
+  # Toplu Kurulum
+  
+  `pip install -r requirements.txt`
 
   # FFMPEG Kurulumu
 
