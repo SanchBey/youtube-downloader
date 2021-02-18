@@ -26,10 +26,10 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-  # FFMPEG Kurulumu
+# FFMPEG Kurulumu
 
 
-   # Windows İçin
+  # Windows İçin
    
    https://ffmpeg.org/download.html
     
@@ -40,8 +40,9 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
    https://www.wikihow.com.tr/Windows%27ta-FFMpeg-Nas%C4%B1l-Kurulur
    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-   # Linux İçin
+  # Linux İçin
    
    Ubuntu
    
