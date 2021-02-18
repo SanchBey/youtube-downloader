@@ -1,0 +1,4 @@
+pydub
+pyqt5
+ffmpeg
+pytube
