@@ -50,17 +50,3 @@ PyQt5, PyDub, PyTube kütüphanelerinin kurulması gereklidir.
 Terminal üzerinde 
   `python youtube_downloader.py`
 komutunun çalıştırılması ile uygulama da çalışacaktır.
-   
-![Alt text](/home/eren/Resimler/1.png?raw=true "Resim")
-
-![Alt text](/home/eren/Resimler/2.png?raw=true "Resim")
-
-![Alt text](/home/eren/Resimler/3.png?raw=true "Resim")
-
-![Alt text](/home/eren/Resimler/4.png?raw=true "Resim")
-
-![Alt text](/home/eren/Resimler/5.png?raw=true "Resim")
-   
-   
-    
-    
