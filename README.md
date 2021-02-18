@@ -67,7 +67,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 # Kullanım
 
 Uygulamanın bulunduğu klasörde açılan terminal üzerinde 
-  `python youtube_downloader.py`
+  `python youtube-downloader.py`
 komutunun çalıştırılması ile uygulama da çalışacaktır.
 
 ![1](https://user-images.githubusercontent.com/79262923/108367005-0a1f6080-720a-11eb-8858-1de09a585d82.png)
