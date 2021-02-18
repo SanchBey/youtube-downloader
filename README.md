@@ -1,7 +1,10 @@
 # Youtube Downloader
 Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar için 360P indirme, 720P ve daha yüksek çözünürlük seçeneği olan videolar için hem 360P hem de 720P indirme yapabilir. Videoları MP3 olarak indirebilir.
 
+
+
 # Kurulumlar
+
 
   # Teker Teker Kurulum
   
@@ -13,11 +16,16 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
 
   PyDub Kurulumu - `pip install pydub ffmpeg`
   
+  
+  
   # Toplu Kurulum
   
   `pip install -r requirements.txt`
 
+
+
   # FFMPEG Kurulumu
+
 
    # Windows İçin
    
@@ -28,6 +36,7 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
    Örnek kurulum:
    
    https://www.wikihow.com.tr/Windows%27ta-FFMpeg-Nas%C4%B1l-Kurulur
+   
    
    
    # Linux İçin
@@ -51,6 +60,8 @@ Python yazılım diliye yazılmış YouTube ses ve video indirici. 360P videolar
    CentOS - RHEL
    
    `yum install ffmpeg ffmpeg-devel -y`
+    
+    
     
 # Kullanım
 
