@@ -1,5 +1,5 @@
 # Youtube Downloader
-Python yazılım diliye yazılmış YouTube ses veya video indirici.
+Python yazılım diliye yazılmış YouTube ses veya video indirici. 360P videolar için 360P indirme, 720P videolar için hem 360P hem de 720P indirme yapabilir. Videoları MP3 olarak indirebilir.
 
 # Kurulumlar
 
